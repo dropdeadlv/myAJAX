@@ -24,7 +24,7 @@
 	padding: 10px;
 	margin: 10px 0 10px 10px;
 	cursor: pointer;
-	background-color: lightyellow;
+	background-color: lightblue;
 }
 
 #menu ul li.active{
@@ -36,7 +36,7 @@ table td{
 	border: 1px black dotted;
 	padding: 5px;
 	font-family: Verdana;
-	font-size: 13px;
+	font-size: 14px;
 	color: blue;
 	font-weight: bold;
 }
